@@ -1,3 +1,5 @@
-# welcome to AnyCheese!
+# welcome to any cheese
 
-You can find us at anycheese.com. We'd love to hear what you think :)
+You can find us at https://anycheese.com
+
+If you love cheese, we'd love to hear what you think :)
