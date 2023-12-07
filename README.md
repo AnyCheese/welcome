@@ -1,4 +1,4 @@
-# welcome to any cheese
+# welcome to anycheese
 
 You can find us at https://anycheese.com
 
